@@ -1,0 +1,60 @@
+.wrapper{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #344151;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.Heading{
+  color: #0398d4;
+  font-size: xx-large;
+  
+}
+
+.btn{
+  width: 10vw;
+  height: 5vh;
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  gap: 12px;
+  padding: 3px;
+  border-radius: 5px;
+  font-size: 25px;
+  color: #344151;
+}
+
+.Nbtn{
+  border-right: 2px;
+  text-align: center;
+  width: 20px;
+  border: #bfbfbf;
+  font-size:xx-large;
+}
+
+.Pbtn{
+  border-right: 2px;
+  text-align: center;
+  width: 20px;
+  border: #bfbfbf;
+  font-size:xx-large;
+}
+
+.reset{
+  text-align:center;
+  background-color: #0398d4;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  font-size: x-large;
+} 
+
+
+
+
+
+
